@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my learning repository 
 <br>
-Author - Kunal Pant
+Author - Kunal Pant (Quant)
